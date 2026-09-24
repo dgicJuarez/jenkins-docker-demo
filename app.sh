@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Hola desde Jenkins"
+echo "Hola desde Jenkins2"
